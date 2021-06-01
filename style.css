@@ -1,0 +1,72 @@
+body{
+    background-size: cover;
+}
+
+.size{
+  width: 70px;
+  height: 50px;
+  border: 1px solid black;
+}
+
+.back{
+  font-family: 'Kalam', cursive;
+  font-size: 15px;
+  border-radius: 10px;
+  border: 1px solid black;
+  margin-top: 3px;
+}
+
+.head_home
+{
+font-size: 40px;
+width: 100%;
+font-family: 'Luckiest Guy', cursive;
+margin: 0px;
+border-radius: 5px;
+background-color: crimson;
+color: white;
+text-decoration: underline;
+box-shadow: 10px 10px 10px white;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    background-color: gray;
+    bottom: 0;
+    width: 100%;
+    line-height: 2;
+    text-align: center;
+    font-family: 'Rokkitt', serif;
+    font-size: 20px;
+  }
+
+  .selector_but{
+    font-family: 'Kalam', cursive;
+    background-color: springgreen;
+    border-radius: 10px;
+    font-size: 25px;
+    color: black;
+  }
+
+  .div_but{
+   background: url("download.jpg");
+   background-size: cover;
+   border-radius: 10px;
+   box-shadow: 10px 10px 10px white;
+   width: 30%;
+   margin-top: 100px;
+  }
+
+
+.status_acs
+{
+font-size: 18px;
+font-family: 'Megrim', cursive;
+border-radius: 10px;
+}
+
+  canvas{
+    box-shadow: 10px 10px 10px white;
+    border-radius: 10px;
+  }
